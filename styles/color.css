@@ -5,14 +5,14 @@ header{
 .baner{
     background-image: url('banner3.png');
     background-repeat: no-repeat;
-   
+   background-size: cover;
 }
 .baner .header{
     font-size: 40px;
     font-weight: 800;
     text-align: end;
     justify-content: end;
-    padding: 200px 150px 30px 1500px;
+    padding: 100px 150px 30px 1400px;
 }
 .baner .sub-header{
     font-size: 25px;
@@ -45,7 +45,7 @@ header{
 }
 /* failure */
 .failure{
-    margin: 100px 300px;
+    margin: 100px 200px;
     justify-content: center;
 }
 .failure-year{
@@ -127,14 +127,14 @@ main img{
     box-shadow: 50%;
 }
 .upfoot .btn-secondary{
-    margin:0 100px 10px 180px ;
+    margin:0 100px 10px 150px ;
     padding: 10px 25px;
 }
 .up-title{
     font-size: 35px;
     font-weight: 600;
     /* margin: 100px 0 0 25px; */
-    margin-left: 180px;
+    margin-left: 150px;
     justify-content: center;
     padding-top: 15px;
     color: aliceblue;
@@ -161,7 +161,7 @@ main img{
     font-weight: 400;
 }
 .foot-form{
-    margin: 100px 1000px;
+    margin: 100px 800px;
 }
 .form-title{
     font-size: 20px;
